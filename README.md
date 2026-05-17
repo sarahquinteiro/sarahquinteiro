@@ -40,8 +40,13 @@
 
 ###
 
+<p align="left">📊 Stats</p>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/sarahquinteiro/sarahquinteiro/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/sarahquinteiro/sarahquinteiro/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
   <img src="https://raw.githubusercontent.com/sarahquinteiro/sarahquinteiro/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
