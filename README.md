@@ -96,7 +96,7 @@
   <a href="https://www.linkedin.com/in/sarahquinteiro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=084a90&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="www.youtube.com/@apequenasareia" target="_blank">
+  <a href="www.youtube.com/@apequenasareia">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/users/751594415273017344" target="_blank">
