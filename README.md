@@ -112,7 +112,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎧 On Repeat</p>
+<h3 data-importer="text" align="left">🎧 On Repeat</h3>
 
 ###
 
